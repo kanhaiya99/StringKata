@@ -1,4 +1,2 @@
-StringCalculatorTest.java
- StringCalculatorTest
-StringCalculatorAllTest.java
- StringCalculatorAllTest
+stringCalculatorTest.java
+ stringCalculatorTest

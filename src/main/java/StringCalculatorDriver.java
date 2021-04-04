@@ -1,7 +1,7 @@
-public class StringCalculatorAllDriver {
+public class StringCalculatorDriver {
     public static  void main(String args[])
     {
-        StringCalculatorAll strCal=new StringCalculatorAll();
+        StringCalculator strCal=new StringCalculator();
         int sum ;
          sum = strCal.add("1");
         System.out.println("Sum = "+sum);

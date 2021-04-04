@@ -1,7 +1,5 @@
 StringCalculator.java
- StringCalculator
-StringCalculatorAll.java
  NegativeException
- StringCalculatorAll
-StringCalculatorAllDriver.java
- StringCalculatorAllDriver
+ StringCalculator
+StringCalculatorDriver.java
+ StringCalculatorDriver

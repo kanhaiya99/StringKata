@@ -1,7 +1,9 @@
 [-3]
 .NegativeException : Negatives are not allowed
+[-1]
+.NegativeException : Negatives are not allowed
 [-3, -6, -18, -7]
 .NegativeException : Negatives are not allowed
 [-1, -3, -6, -18]
 .NegativeException : Negatives are not allowed
-"add() called : 11 Number of times
+"add() called : 14 Number of times
